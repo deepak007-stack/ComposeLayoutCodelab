@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BasicLayoutsCodelab</string>
+    <string name="search">Search</string>
+    <string name="inversions">Inversions</string>
+    <string name="nature_meditation">Nature Meditation</string>
+    <string name="icon1">Nature Meditation</string>
+    <string name="icon2">Short Mantras</string>
+    <string name="icon3">Stress and Anxiety</string>
+    <string name="icon4">Self Massage</string>
+    <string name="icon5">Overwhelmed</string>
+    <string name="icon6">Nightly Wind Down</string>
+    <string name="align_your_body">Align Your Body</string>
+    <string name="favourite_collection">Favourite Collection</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+</resources>
